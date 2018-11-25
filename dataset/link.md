@@ -1,0 +1,9 @@
+[中文谣言数据](https://github.com/thunlp/Chinese_Rumor_Dataset)
+
+关键词提取数据:
+-[krapivin-2009](https://github.com/boudinfl/krapivin-2009-pre)
+-[marujo-2012](https://github.com/boudinfl/marujo-2012-pre)
+-[hulth-2003](https://github.com/boudinfl/hulth-2003-pre)
+-[semeval-2010](https://github.com/boudinfl/semeval-2010-pre)
+关键词提取算法:
+-[关键词提取算法工具包pke](https://github.com/boudinfl/pke)
