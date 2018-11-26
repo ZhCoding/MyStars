@@ -1,4 +1,4 @@
-# 关键词提取数据:
+# 关键词提取数据
 - [krapivin-2009](https://github.com/boudinfl/krapivin-2009-pre)  
 - [marujo-2012](https://github.com/boudinfl/marujo-2012-pre)  
 - [hulth-2003](https://github.com/boudinfl/hulth-2003-pre)  
