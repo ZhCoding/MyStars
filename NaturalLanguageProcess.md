@@ -1,7 +1,7 @@
 # 关键词提取算法
 - [seq2seq-keyphrase](https://github.com/memray/seq2seq-keyphrase)
 - [pke](https://github.com/boudinfl/pke)
-- [Centrality Measures](https://github.com/boudinfl/centrality_measures_ijcnlp13)for Graph-Based Keyphrase Extraction
+- [Centrality Measures](https://github.com/boudinfl/centrality_measures_ijcnlp13) for Graph-Based Keyphrase Extraction
 - [Graph Degeneracy-Based](https://github.com/Tixierae/EMNLP_2016)
 
 # 文本向量化
