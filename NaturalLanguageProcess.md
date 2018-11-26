@@ -2,7 +2,7 @@
 - [seq2seq-keyphrase](https://github.com/memray/seq2seq-keyphrase)
 - [pke](https://github.com/boudinfl/pke)
 - [Centrality Measures](https://github.com/boudinfl/centrality_measures_ijcnlp13) for Graph-Based Keyphrase Extraction
-- [Graph Degeneracy-Based](https://github.com/Tixierae/EMNLP_2016)
+- [Graph Degeneracy-Based](https://github.com/Tixierae/EMNLP_2016) Approach to Keyword Extraction
 
 # 文本向量化
 - [context2vec](https://github.com/orenmel/context2vec)
