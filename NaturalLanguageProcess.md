@@ -21,5 +21,8 @@
 # 关系提取
 - [OpenNRE](https://github.com/thunlp/OpenNRE)
 
+# 词义消歧
+- [pywsd](https://github.com/alvations/pywsd)
+
 # 汉字转拼音
 - [python-pinyin](https://github.com/mozillazg/python-pinyin)
