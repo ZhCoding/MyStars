@@ -5,6 +5,9 @@
 - [semeval-2010](https://github.com/boudinfl/semeval-2010-pre)
 - [合辑](https://github.com/snkim/AutomaticKeyphraseExtraction)  
 
+# 词义消歧数据
+- [WSD](https://dkpro.github.io/dkpro-wsd/corpora/)
+
 # 其它数据
 [中文谣言数据](https://github.com/thunlp/Chinese_Rumor_Dataset)  
 [维基百科词频数据](https://github.com/IlyaSemenov/wikipedia-word-frequency)
