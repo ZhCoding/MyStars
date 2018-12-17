@@ -25,6 +25,7 @@
 - [OpenNRE](https://github.com/thunlp/OpenNRE)
 
 # 词义消歧
+- [结合语义定义的神经词义消歧](https://github.com/luofuli/word-sense-disambiguation)
 - [pywsd](https://github.com/alvations/pywsd)
 
 # 汉字转拼音
