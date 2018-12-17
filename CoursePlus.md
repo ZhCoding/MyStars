@@ -14,3 +14,4 @@
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [TensorFlow实战代码](https://github.com/caicloud/tensorflow-tutorial)-才云科技
 - [keras-attention](https://github.com/datalogue/keras-attention)
+- [TensorFlow实战](https://github.com/princewen/tensorflow_practice) (包括强化学习、推荐系统、nlp等)
