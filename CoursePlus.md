@@ -6,6 +6,7 @@
 
 # Information
 - [PRML](https://github.com/PRML/PRMLT)
+- [统计学习方法](https://github.com/fengdu78/lihang-code)
 - [diveintodeeplearning](https://github.com/diveintodeeplearning/d2l-en) 动手学深度学习
 - [Leetcode](https://github.com/apachecn/awesome-algorithm) 题解 (跟随思路一步一步撸出代码) 及经典算法实现
 - [machinlearning](https://github.com/lovesoft5/ml)
