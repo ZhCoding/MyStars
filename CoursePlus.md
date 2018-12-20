@@ -16,3 +16,4 @@
 - [TensorFlow实战代码](https://github.com/caicloud/tensorflow-tutorial)-才云科技
 - [keras-attention](https://github.com/datalogue/keras-attention)
 - [TensorFlow实战](https://github.com/princewen/tensorflow_practice) (包括强化学习、推荐系统、nlp等)
+- [cs229t](https://github.com/percyliang/cs229t/blob/master/lectures/notes.pdf) (统计学习知识)
