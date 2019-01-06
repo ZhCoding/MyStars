@@ -12,6 +12,7 @@
 - [machinlearning](https://github.com/lovesoft5/ml)
 - [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [DLInterview](https://github.com/ShanghaiTechAIClub/DLInterview) 笔试、面试相关知识
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [TensorFlow实战代码](https://github.com/caicloud/tensorflow-tutorial)-才云科技
 - [keras-attention](https://github.com/datalogue/keras-attention)
