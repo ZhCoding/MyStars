@@ -10,6 +10,7 @@
 # 文本向量化
 - [context2vec](https://github.com/orenmel/context2vec)
 - [glove](https://github.com/stanfordnlp/GloVe)
+- [Embedding合辑](https://github.com/Separius/awesome-sentence-embedding)
 
 # 语言模型
 - [BERT](https://github.com/google-research/bert)
