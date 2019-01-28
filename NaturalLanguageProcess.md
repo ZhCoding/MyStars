@@ -19,6 +19,7 @@
 # 中文分词
 - [greedyCWS](https://github.com/jcyk/greedyCWS)
 - [CWS](https://github.com/jcyk/CWS)
+- [北大开源中文分词](https://github.com/lancopku/pkuseg-python)
 
 # 英文短语提取
 - [phrasemachine](https://github.com/slanglab/phrasemachine)
