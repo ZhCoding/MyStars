@@ -31,6 +31,3 @@
 
 # 汉字转拼音
 - [python-pinyin](https://github.com/mozillazg/python-pinyin)
-
-# 词性标注
-- [词性标签转换](https://github.com/slavpetrov/universal-pos-tags)
