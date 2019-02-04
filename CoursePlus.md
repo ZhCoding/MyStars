@@ -21,3 +21,4 @@
 - [Python开源项目合辑](https://github.com/mahmoud/awesome-python-applications)
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
 - [DeepLearningOcean](https://github.com/osforscience/deep-learning-ocean)
+- [DeepLearningCourse](https://github.com/kmario23/deep-learning-drizzle)
