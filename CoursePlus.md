@@ -22,3 +22,4 @@
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
 - [DeepLearningOcean](https://github.com/osforscience/deep-learning-ocean)
 - [DeepLearningCourse](https://github.com/kmario23/deep-learning-drizzle)
+- [中文NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
