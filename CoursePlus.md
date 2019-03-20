@@ -23,3 +23,4 @@
 - [DeepLearningOcean](https://github.com/osforscience/deep-learning-ocean)
 - [DeepLearningCourse](https://github.com/kmario23/deep-learning-drizzle)
 - [中文NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+- [电子书](https://github.com/threerocks/studyFiles)
