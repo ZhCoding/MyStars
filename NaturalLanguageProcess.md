@@ -26,6 +26,7 @@
 
 # 关系提取
 - [OpenNRE](https://github.com/thunlp/OpenNRE)
+- [PCNN(https://github.com/pencoa/PCNN)
 
 # 词义消歧
 - [结合语义定义的神经词义消歧](https://github.com/luofuli/word-sense-disambiguation)
