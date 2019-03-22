@@ -25,4 +25,4 @@
 - [中文NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
 - [电子书](https://github.com/threerocks/studyFiles)
 - [前端资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
-- [keras&PytorchPre-TrainedModel](Benchmarking Keras and PyTorch Pre-Trained Models)
+- [keras\&PytorchPre-TrainedModel](Benchmarking Keras and PyTorch Pre-Trained Models)
