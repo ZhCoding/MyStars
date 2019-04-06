@@ -11,6 +11,7 @@
 - [context2vec](https://github.com/orenmel/context2vec)
 - [glove](https://github.com/stanfordnlp/GloVe)
 - [Embedding合辑](https://github.com/Separius/awesome-sentence-embedding)
+- [向量维度选择](https://github.com/ziyin-dl/word-embedding-dimensionality-selection)
 
 # 语言模型
 - [BERT](https://github.com/google-research/bert)
@@ -27,6 +28,7 @@
 # 关系提取
 - [OpenNRE](https://github.com/thunlp/OpenNRE)
 - [PCNN](https://github.com/pencoa/PCNN)
+- [PCNN + ATT](https://github.com/ShomyLiu/pytorch-relation-extraction)
 
 # 词义消歧
 - [结合语义定义的神经词义消歧](https://github.com/luofuli/word-sense-disambiguation)

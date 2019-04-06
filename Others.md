@@ -7,3 +7,6 @@
 
 # 图像
 - [图像增强](https://github.com/baidut/OpenCE)
+
+# 棋类
+- [强化学习_中国象棋](https://github.com/NeymarL/ChineseChess-AlphaZero)
